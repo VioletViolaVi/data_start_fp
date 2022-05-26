@@ -12,6 +12,8 @@ seaborn = "*"
 jupyterlab = "*"
 ipykernel = "*"
 numpy = "*"
+requests = "*"
+bs4 = "*"
 
 [dev-packages]
 
